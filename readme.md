@@ -36,7 +36,7 @@ If you find this repository useful in your research, please consider citing the 
                Yiqun Peng and
                Jingtian Tang and
                Xian Zhang and
-			   Yong Li},
+	       Yong Li},
 	journal   = {Journal of Applied Geophysics},
 	title     = {A method for magnetotelluric data processing based on sparsity adaptive stage-wise orthogonal matching pursuit},
     volume    = {198},
