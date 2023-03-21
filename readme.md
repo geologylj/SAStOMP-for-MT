@@ -10,7 +10,7 @@ deal_sp.m for data denoise
 
 framing.m for data segmentation
 
-Fuzzy_entropy_my.m for calculat fuzzy entropy
+Fuzzy_entropy_my.m for calculate fuzzy entropy
 
 generate_dic1.m for dictionary generate
 
