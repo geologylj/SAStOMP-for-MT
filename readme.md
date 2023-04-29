@@ -4,25 +4,16 @@ This is the origin MATLAB implementation of SAStOMP in the following paper:
 
 ## function
 ```
-Run deal_data.m to see example
-
-deal_sp.m for data denoise
-
-framing.m for data segmentation
-
-Fuzzy_entropy_my.m for calculate fuzzy entropy
-
-generate_dic1.m for dictionary generate
-
-linear_ovladd.m for recovery
-
-SAStOMP.m for SAStOMP sparse representation
-
-spdiag.m for sparse diagonal metrices
-
-normcols for dictionary normalization
-
-stimulate_signal.mat is the simulated signals
+	-Run deal_data.m to see example
+	-deal_sp.m for data denoise
+	-framing.m for data segmentation
+	-Fuzzy_entropy_my.m for calculate fuzzy entropy
+	-generate_dic1.m for dictionary generate
+	-linear_ovladd.m for recovery
+	-SAStOMP.m for SAStOMP sparse representation
+	-spdiag.m for sparse diagonal metrices
+	-normcols for dictionary normalization
+	-stimulate_signal.mat is the simulated signals
 ```
 
 
